@@ -1,4 +1,4 @@
-# Lattitude3655-Sonoma
+# Lattitude3500-Sonoma
 Repo For Dell Lattitude 3500 Hackintosh EFI
 
 Specs:
