@@ -9,7 +9,6 @@ Specs:
     dGPU: Nvidia MX130
     SSD: 512 GB SATA + 256 NVME
     Display: 15.6" 1920 x 1080
-    Sound: Realtek ALC 295
     Ethernet: RTL8111
     WiFi: Intel AC9462 2nd Gen
     Bluetooth: Intel (combined with AC9462)
