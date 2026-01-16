@@ -22,26 +22,19 @@ What's working:
     CPU with proper power management
     iGPU
     Ethernet
+    HDMI port 
     Wifi ( via itlwm ) 
     Bluetooth
     Brightness keys
     Webcam
     Sound
     Touchpad with gestures
-    iMessage, Facetime etc.
-
-What isn't working:
-
-
-
-Not tested:
-    SD Card Reader
-    HDMI port 
     Headphone jack
+    iMessage, Facetime etc.
     Internal microphone
 
-
-
+What isn't working:
+    SD Card Reader
 
 
 Don't forget to generate your serial 
