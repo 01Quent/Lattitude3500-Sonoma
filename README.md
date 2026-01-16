@@ -36,7 +36,7 @@ What isn't working:
 
 Not tested:
     SD Card Reader
-    HDMI port (its hardwired to dGPU)
-    Headphone jack (sound is scrambled and it doesn't detect microphone(but you can use USB ports for audio input and output))
+    HDMI port 
+    Headphone jack
     Internal microphone
     
