@@ -39,4 +39,10 @@ Not tested:
     HDMI port 
     Headphone jack
     Internal microphone
+
+
+
+
+
+Don't forget to generate your serial 
     
