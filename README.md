@@ -4,7 +4,7 @@ Repo For Dell Lattitude 3500 Hackintosh EFI
 Specs:
 
     CPU: Intel core i5-8265U 1,60GHz
-    RAM: 16 GB DDR4 2933 MHz 
+    RAM: 16 GB DDR4 2400 MHz 
     iGPU: Intel UHD 620
     dGPU: Nvidia MX130
     SSD: 512 GB SATA + 256 NVME
